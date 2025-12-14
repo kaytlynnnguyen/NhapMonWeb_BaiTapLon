@@ -1,0 +1,11 @@
+/* Comments & review styles */
+.comment-list { margin-top: 12px; }
+.comment { border-bottom: 1px solid #eee; padding: 12px 0; }
+.comment .meta { color: #666; font-size: 13px; margin-bottom: 6px; }
+.comment .body { white-space: pre-wrap; color: #333; }
+.stars { color: #f5c518; font-size: 16px; margin-left:6px }
+.comment-form { margin-top: 16px; }
+.comment-form label { display:block; font-weight:600; margin-bottom:6px; }
+.comment-form input[type="email"], .comment-form textarea, .comment-form select { width:100%; padding:10px; border:1px solid #ddd; border-radius:6px; margin-bottom:10px; font-family:inherit }
+.comment-form button { background:#FF69B4; color:#fff; border:0; padding:10px 14px; border-radius:6px; cursor:pointer }
+.comment-note { color:#777; font-size:13px; margin-top:8px }
